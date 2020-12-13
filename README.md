@@ -1,4 +1,4 @@
 
-Sample Java Applicaiton V1.1s 13
+Sample Java Applicaiton V1.1s
 
 
